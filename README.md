@@ -41,7 +41,8 @@ záložky a navigační tlačítka
 vlastní tooltipy
 podmíněné formátování
 
-Zdroj dat : Kaggle
+### Zdroj dat 
+Kaggle
 Projekt využívá veřejně dostupný dataset historických dat Formule 1 od roku 1950.
 
 
