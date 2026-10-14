@@ -16,18 +16,18 @@ circuits
 Pro analýzu byly vytvořeny vlastní DAX míry a kalkulované sloupce, například pro celkové body, počet závodů, počet vítězství, průměrnou cílovou pozici, věk jezdce při závodě nebo kategorizaci výsledků.
 
 ## Struktura reportu
-Stránka 1 — Úvodní stránka
+#### Stránka 1 — Úvodní stránka
 Titulní stránka projektu s navigačními tlačítky umožňujícími přechod mezi jednotlivými částmi reportu.
 
-Stránka 2 — Přehled Formule 1
+#### Stránka 2 — Přehled Formule 1
 Souhrnný přehled historie Formule 1. Obsahuje hlavní KPI, TOP jezdce, týmy a národnosti, vývoj celkových bodů podle sezóny a mapu závodních okruhů.
 
-Stránka 3 — Analýza jezdců
+#### Stránka 3 — Analýza jezdců
 Detailnější pohled na výkonnost jezdců. Stránka obsahuje vývoj bodů podle sezóny, porovnání startovní a cílové pozice, průměrné cílové umístění a rozdělení výsledků na vítězství, pódia, TOP 10 a umístění mimo TOP 10.
 
 Součástí stránky jsou také interaktivní průřezy umožňující analýzu konkrétního jezdce nebo období.
 
-Stránka 4 — Týmy a okruhy
+#### Stránka 4 — Týmy a okruhy
 Analýza zaměřená na týmy a závodní okruhy. Obsahuje informace o bodech a vítězstvích týmů, počtu závodů, vývoji týmů podle sezóny a analýzu závodních okruhů včetně rychlostních statistik.
 
 ### Použité nástroje
