@@ -41,5 +41,7 @@ záložky a navigace
 vlastní tooltipy
 podmíněné formátování
 
-Projekt byl vytvořen jako závěrečný Power BI projekt v rámci datové akademie ENGETO.
 Data zdroj: Kaggle
+
+Projekt byl vytvořen jako závěrečný Power BI projekt v rámci datové akademie ENGETO.
+
