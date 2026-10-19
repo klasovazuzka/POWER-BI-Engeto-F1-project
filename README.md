@@ -31,14 +31,14 @@ Součástí stránky jsou také interaktivní průřezy umožňující analýzu 
 Analýza zaměřená na týmy a závodní okruhy. Obsahuje informace o bodech a vítězstvích týmů, počtu závodů, vývoji týmů podle sezóny a analýzu závodních okruhů včetně rychlostních statistik.
 
 ### Použité nástroje
-Power BI Desktop
-Power Query
-DAX
-Azure Maps
-Relační datový model
-Interaktivní průřezy
-Záložky a navigace
-Vlastní tooltipy
-Podmíněné formátování
+-Power BI Desktop
+-Power Query
+-DAX
+-Azure Maps
+-Relační datový model
+-Interaktivní průřezy
+-Záložky a navigace
+-Vlastní tooltipy
+-Podmíněné formátování
 
 Data zdroj: Kaggle
