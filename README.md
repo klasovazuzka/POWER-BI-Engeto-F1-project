@@ -8,11 +8,12 @@ Zdrojová data pocházejí z veřejně dostupného datasetu Complete Formula 1 D
 ## Příprava a zpracování dat
 Před vytvořením reportu byla data načtena a upravena v Power Query. Následně byl vytvořen relační datový model propojující hlavní tabulky:
 
-results
-races
-drivers
-constructors
-circuits
+- results
+- races
+- drivers
+- constructors
+- circuits
+
 Pro analýzu byly vytvořeny vlastní DAX míry a kalkulované sloupce, například pro celkové body, počet závodů, počet vítězství, průměrnou cílovou pozici, věk jezdce při závodě nebo kategorizaci výsledků.
 
 ## Struktura reportu
