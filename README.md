@@ -35,13 +35,10 @@ Power BI Desktop
 Power Query
 DAX
 Azure Maps
-relační datový model
-interaktivní průřezy
-záložky a navigace
-vlastní tooltipy
-podmíněné formátování
+Relační datový model
+Interaktivní průřezy
+Záložky a navigace
+Vlastní tooltipy
+Podmíněné formátování
 
 Data zdroj: Kaggle
-
-Projekt byl vytvořen jako závěrečný Power BI projekt v rámci datové akademie ENGETO.
-
